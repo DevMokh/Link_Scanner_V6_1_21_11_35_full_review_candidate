@@ -1,0 +1,2 @@
+# Link_Scanner_V6_1_21_11_35_full_review_candidate
+Flutter project created by KLENCOD IDE
